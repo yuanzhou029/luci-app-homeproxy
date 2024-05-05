@@ -1093,7 +1093,7 @@ msgstr "反转匹配结果"
 
 #: htdocs/luci-static/resources/view/homeproxy/client.js:165
 msgid "It MUST support TCP query."
-msgstr ""
+msgstr "它必须支持 TCP 查询。"
 
 #: htdocs/luci-static/resources/view/homeproxy/server.js:688
 msgid "Key path"
@@ -2488,7 +2488,7 @@ msgstr "VMess"
 #: htdocs/luci-static/resources/view/homeproxy/client.js:166
 #: htdocs/luci-static/resources/view/homeproxy/client.js:192
 msgid "WAN DNS (read from interface)"
-msgstr ""
+msgstr "WAN DNS（从接口获取）"
 
 #: htdocs/luci-static/resources/view/homeproxy/client.js:1079
 msgid "WAN IP Policy"
@@ -2666,7 +2666,7 @@ msgstr "有效网址"
 
 #: htdocs/luci-static/resources/view/homeproxy/client.js:212
 msgid "valid address#port"
-msgstr ""
+msgstr "有效 地址#端口"
 
 #: htdocs/luci-static/resources/homeproxy.js:240
 msgid "valid base64 key with %d characters"
@@ -2690,12 +2690,3 @@ msgstr "有效端口值"
 #: htdocs/luci-static/resources/homeproxy.js:268
 msgid "valid uuid"
 msgstr "有效 uuid"
-
-#~ msgid "Use DNS server from WAN"
-#~ msgstr "使用 WAN 下发的 DNS"
-
-#~ msgid "Use DNS server from WAN + 114DNS"
-#~ msgstr "使用 WAN DNS + 114DNS"
-
-#~ msgid "You can only have one server set. It MUST support TCP query."
-#~ msgstr "您只能设置一个服务器。它必须支持 TCP 查询。"
