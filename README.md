@@ -6,5 +6,5 @@
 
 User Manual
 ---
-
+总要干点啥吧！！
 * [Wiki](https://github.com/douglarek/luci-app-homeproxy/wiki)
